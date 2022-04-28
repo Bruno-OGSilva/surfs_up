@@ -32,4 +32,5 @@ This project was fully developed in Python, code can be checked at the following
 ![](https://github.com/Bruno-OGSilva/surfs_up/blob/473d92d5c69e38206359cfd72a804e5d6a185c74/Assets/Jun%20Temps.png)
 
 * December Recorded Temps Visualization (Temperature and Frequency)
+
 ![](https://github.com/Bruno-OGSilva/surfs_up/blob/473d92d5c69e38206359cfd72a804e5d6a185c74/Assets/Dec%20Temps.png)

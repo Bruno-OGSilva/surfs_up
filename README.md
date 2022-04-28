@@ -38,8 +38,6 @@ This project was fully developed in Python, code can be checked at the following
 ## Key Differences in Weather: Oahu, Hawaii
 
 * The average temperature in June 4 degrees higher than the average temp in December (74F vs 71F).
-
-* The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps
 * The December temperatures have a higher standard deviation than June teperatures, this is driven by the Dec having a wider range from the min temp to the max temp.
 * June had 12% more data colection than December (1,700 vs 1,517)
 

@@ -43,3 +43,14 @@ This project was fully developed in Python, code can be checked at the following
 
 ## Summary
 
+Although the temperatures recorded in Dececember vary more than those of June, December would still have appropriate weather conditions for both surfing and demand in ice cream.
+
+As addtional queries, I would analyze the Precipitation data to understand how rain can affect the business performance.
+
+* June Precipitation summary:
+
+![](https://github.com/Bruno-OGSilva/surfs_up/blob/dd29039ac652e163a201ab97b3f2f3b63b919bfe/Assets/June%20Precipitation.png)
+
+* December Precipitation summary:
+
+![](https://github.com/Bruno-OGSilva/surfs_up/blob/dd29039ac652e163a201ab97b3f2f3b63b919bfe/Assets/December%20Precipitation.png)

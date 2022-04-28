@@ -17,9 +17,10 @@ This project was fully developed in Python, code can be checked at the following
 
 ## Resources
 
-[WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv)
-
-[WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv)
+- Data Source: `hawaii.sqlite`
+- Programming Files: `SurfsUp_Challenge.ipynb`, `climate_analysis.ipynb`
+- Data Tools: `Python SQL toolkit (SQLAlchemy)`, `Object Relational Mapper`, `pandas`, `numpy`
+- Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
 
 ## Results
 

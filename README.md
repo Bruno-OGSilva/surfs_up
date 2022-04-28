@@ -18,7 +18,6 @@ This project was fully developed in Python, code can be checked at the following
 ## Resources
 
 - Data Source: `hawaii.sqlite`
-- Programming Files: `SurfsUp_Challenge.ipynb`, `climate_analysis.ipynb`
 - Data Tools: `Python SQL toolkit (SQLAlchemy)`, `Object Relational Mapper`, `pandas`, `numpy`
 - Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
 
@@ -28,8 +27,9 @@ This project was fully developed in Python, code can be checked at the following
 
 ![](https://github.com/Bruno-OGSilva/surfs_up/blob/78d0a74121574cb53d2106bf2c32e520833156ea/Assets/Stat%20compare.png)
 
+* June Recorded Temps Visualization (Temperature and Frequency)
 
+![](https://github.com/Bruno-OGSilva/surfs_up/blob/473d92d5c69e38206359cfd72a804e5d6a185c74/Assets/Jun%20Temps.png)
 
-![](Vacation_Itinerary/WeatherPy_travel_map.png)
-
-![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+* December Recorded Temps Visualization (Temperature and Frequency)
+![](https://github.com/Bruno-OGSilva/surfs_up/blob/473d92d5c69e38206359cfd72a804e5d6a185c74/Assets/Dec%20Temps.png)

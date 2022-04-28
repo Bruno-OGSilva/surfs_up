@@ -24,7 +24,11 @@ This project was fully developed in Python, code can be checked at the following
 
 ## Results
 
-![](Vacation_Search/WeatherPy_vacation_map.png)
+* Summary Statistics DataFrame: June vs December Temperatures
+
+![](https://github.com/Bruno-OGSilva/surfs_up/blob/78d0a74121574cb53d2106bf2c32e520833156ea/Assets/Stat%20compare.png)
+
+
 
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
 
